@@ -1,2 +1,2 @@
-# apinode_mongodb
-Exemplo de projeto utilizando NODE com MONGODB
+# LSYS.API.CONNECT.MONGODB
+Exemplo de projeto utilizando API NODE com conexão ao banco de dados MONGODB
