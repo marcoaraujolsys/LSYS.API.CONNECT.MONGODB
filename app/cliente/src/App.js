@@ -20,7 +20,8 @@ export default class App extends React.Component {
       isLoaded: false,
       rowsDB: [],
       rows:[],
-      busca: ''
+      busca: '',
+	temp: 'xx'
     };
 
     this.handleChange = this.handleChange.bind(this);
